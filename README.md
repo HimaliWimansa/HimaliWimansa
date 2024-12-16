@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Himali Wimansa  
+- 👀 I’m interested in software development, web development, problem-solving, and technology innovation.  
+- 🌱 I’m currently learning more about full-stack development, advanced programming concepts, and database management.  
+- 💞️ I’m looking to collaborate on open-source projects, web applications, and software solutions that solve real-world problems.  
+- 📫 How to reach me:  
+  - Email: himaliwimansa@gmail.com  
+  - LinkedIn: [linkedin.com/in/himaliwimansa](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BEiwZsf%2B9Qom9o6GMoBI8og%3D%3D)  
+- 😄 Pronouns: She/Her  
+- 🎓 Academic Background: I’m an undergraduate at Rajarata University of Sri Lanka, pursuing a B.Sc. in Information Technology, and I’ve completed my Diploma in Software Engineering with a GPA of 3.9. I’m currently reading for my Higher Diploma in Software Engineering.  
